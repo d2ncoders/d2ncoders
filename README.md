@@ -4,6 +4,8 @@
 <img align="right" alt="GIF" height="55px" src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" />
 <img align="right" alt="GIF" height="55px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" />
 
+<img align="left" alt="GIF" height="55px" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+
 Personal Info me:
 - 🔭 I’m currently working on my campus project
 - 🌱 I’m currently learning typescript
