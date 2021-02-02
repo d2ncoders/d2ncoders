@@ -1,6 +1,6 @@
 ## Hi frends me d2ncoders <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <br>
-<img align="right" alt="GIF" height="155px" src="https://media.giphy.com/media/l4FGF4DVYSeS5oIx2/giphy.gif" />
+<img align="left" alt="GIF" height="155px" src="https://media.giphy.com/media/l4FGF4DVYSeS5oIx2/giphy.gif" />
 </br>
 <p>
 <img align="right" alt="GIF" height="55px" src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" />
